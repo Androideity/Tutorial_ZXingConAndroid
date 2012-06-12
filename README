@@ -1,0 +1,7 @@
+Proyecto que muestra el uso de la librería ZXing en un proyecto Android.
+
+- Compilación de la librería.
+- Agregar la librería en un proyecto Android.
+- Implementación básica para mandar a llamar el Intent de lectura de QR.
+
+Ver tutorial: http://androideity.com/2011/11/23/trabajar-con-codigos-qr-en-tus-aplicaciones-android/
